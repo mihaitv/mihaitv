@@ -33,7 +33,6 @@
     | |                *@@%                       #@@+        -----                    ---==----- --               | |
     | |              +@@@#+                        %@@#      ---==--                       ----                    | |
     | |              ***+=                         =+%%#    ---------                      ---                     | |
-
 ### Hey, I'm Mihai
 
 I'm a trader at Chainsage, a proprietary crypto HFT firm. 
